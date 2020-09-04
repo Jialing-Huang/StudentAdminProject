@@ -5,7 +5,7 @@ This project is a sample of angular CRUD and a template front-end of similar adm
 
 ## Running the Application
 
-1. Install the Angular CLI: `npm install -g @angular/cli`
+1. Install the Angular CLI: `sudo npm install -g @angular/cli@8.0.0`
 
 2. Run `npm install` to install app dependencies
 
